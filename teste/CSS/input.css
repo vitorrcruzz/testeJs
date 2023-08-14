@@ -1,0 +1,19 @@
+label{
+    display: flex;
+    flex-direction: column;
+    margin-top: .5rem;
+    margin-bottom: -.5rem;
+    font-size: 1.2rem;
+}
+#txtUser, #txtEmail, #txtSenha{
+    font-size: 1rem;
+    border-color: black;
+    margin-top: 1rem;
+}
+#btnSubmit{
+    margin-top: 1.5rem;
+    width: 7rem;
+    font-size: 1rem;
+    background-color: #3b3b3b;
+    color: #ffffff;
+}

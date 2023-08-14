@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+body{
+    background-color: #94e6d5d2;
+    
+}
+fieldset{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    margin-top: 30%;
+    margin-left: 30%;
+    width: 50%;
+}
+legend{
+    font-size: 2rem;
+    color: #6495ed;
+}
